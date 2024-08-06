@@ -1,6 +1,6 @@
 # Unity Video2Animation
-#### A Unity video to animation clip conversion tool using MMpose
-This is an open source Unity video to animation clip converrsion tool made by Elsie Wang. The idea is to create an accessible tool for indie game makers (such as myself) to create more specific animations by recording live action videos and convert them to Unity animation. Please beaware that at the current stage, **a custom python envrionment setup for the usage of MMpose is required**, contact me if there's any help is needed on that.
+#### A Unity video to animation conversion tool using MMpose
+This is an open source Unity video to animation clip converrsion tool made by Elsie Wang. The idea is to create an accessible tool for indie game makers (such as myself) to create more specific animations by recording live action videos and convert them to Unity animation. Please beaware that at the current stage, **a custom python envrionment setup for the usage of MMpose is required**, contact me if any help is needed.
 
 ![Demo](https://github.com/bigpineappleking/UnityVideo2Animation/blob/main/Display/results.gif)
 
