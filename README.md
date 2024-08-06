@@ -23,6 +23,8 @@ This is an open source Unity video to animation clip converrsion tool made by El
 
 * Edit the animation to add more details
 
+![Tutorial](https://github.com/bigpineappleking/UnityVideo2Animation/blob/main/Display/tutorial.gif)
+
 ## Notice
 * [Mixamo](https://www.mixamo.com/#/) rig is used for this tool. Please rig your model through Mixamo, custom rigging is currently not supported.
 
